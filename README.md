@@ -1,0 +1,1 @@
+This is the "Google home Page", in this project I tried to apply everything a learned from css styling to moving elementes around the page. Thanks to that I was able to make things look good and put them where I want them to be on any part of the page. YAY!
